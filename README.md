@@ -1,0 +1,2 @@
+# CLEAN-TECH-TRANSFORMING-WASTE-MANAGEMENT-WITH-TRANSFER-LEARNINGv
+           This project, CleanTech: Transforming Waste Management with Transfer Learning, presents an Artificial Intelligence (AI) and Machine Learning (ML)-based solution to automate waste classification. The system utilizes Deep Learning and Transfer Learning techniques by implementing the VGG16 Convolutional Neural Network (CNN) .
